@@ -1,3 +1,10 @@
-import turtle*
+from turtle import *
 
-circle(100)
+fd(50)
+left(120)
+fd(50)
+right(120)
+fd(50)
+
+
+
